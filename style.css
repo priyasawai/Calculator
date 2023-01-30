@@ -1,0 +1,50 @@
+html,body{
+    height: 100%;
+    width:100%;
+    background-color:aquamarine;
+}
+.text-center
+{
+    text-align:center;
+    color: brown;
+}
+.mx-auto
+{
+    margin: auto;
+}
+.flex
+{
+  display: flex;
+  justify-content: center;
+}
+.flex-col{
+ flex-direction: column;
+}
+.items-center
+{
+   align-items: center;
+}
+.button
+{
+  width: 66px;
+  padding: 30px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 30%;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.row
+{
+    margin: 12px 0;
+}
+
+.input
+{
+  width: 12vw;
+  padding: 10px;
+  border-radius:9px ;
+  border: 2px solid black;
+}
+ 
